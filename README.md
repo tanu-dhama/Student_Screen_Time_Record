@@ -9,3 +9,18 @@ Applied statistical analysis and correlation methods to identify relationships b
 Built visualizations using Matplotlib & Seaborn to present trends, distributions, and comparisons in student screen usage.
 
 Generated actionable insights to help reduce excessive screen time and improve digital well-being & learning efficiency.
+# 👩‍🎓 Student_Screen_Time_Record
+
+Performed in-depth analysis on student_screen_time_record dataset using Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover patterns, trends, and correlations between screen usage and academic/behavioral outcomes.
+
+## 📊 Technologies Used
+- Python
+- pandas, matplotlib, seaborn
+- Jupyter Notebook
+
+## 📁 Key Analyses
+- 🔍 
+- 🎭 Most Common Genres
+- 📅 Content Added Over Time
+- 🎬 Top Directors
+- 📈 Highest votes in vote Avg Column
