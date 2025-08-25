@@ -19,8 +19,8 @@ Performed in-depth analysis on student_screen_time_record dataset using Python (
 - Jupyter Notebook
 
 ## 📁 Key Analyses
-- 🔍 
-- 🎭 Most Common Genres
-- 📅 Content Added Over Time
-- 🎬 Top Directors
+- 🔍 Mhich area most use of device urban_or_rural area?
+- 📱 Screen time impact on health
+- 👀 Handlig missing values
+- 🎬 
 - 📈 Highest votes in vote Avg Column
